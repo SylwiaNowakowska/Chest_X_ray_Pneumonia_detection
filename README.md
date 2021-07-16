@@ -1,4 +1,4 @@
-# ChestXNet: Pneumonia Detection on Chest X-rays with Convolutional Neural Networks
+# ChestXNet: Pneumonia Detection from Chest X-rays with Convolutional Neural Networks
 
 This project is part of AI in healthcare course on Udacity Platform. 
 

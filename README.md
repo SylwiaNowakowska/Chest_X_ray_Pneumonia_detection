@@ -16,12 +16,12 @@ Detailed info: https://www.kaggle.com/nih-chest-xrays/data
 
 ## Project files
  1. EDA (exploratory data analysis)
- 3. Build and train model:
- -  Processing metadata
- -  Creating training, validation and test datasets
- -  Comparison of demographic distributions in the training, validation and test datasets
- -  Building of different models, their training and evaluation
- -  Model performance summary
- -  Next steps
+ 2. Build and train model:
+  -  Processing metadata
+  -  Creating training, validation and test datasets
+  -  Comparison of demographic distributions in the training, validation and test datasets
+  -  Building of different models, their training and evaluation
+  -  Model performance summary
+  -  Next steps
 
 

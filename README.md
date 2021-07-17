@@ -11,5 +11,7 @@ NIH Chest X-ray Dataset comprised of 112,120 X-ray images with disease labels fr
 The labels include 14 pathologies and were extracted using Natural Language Processing (NLP) from radiological reports.
 Detailed info: https://www.kaggle.com/nih-chest-xrays/data 
 
+The goal of the project is to classify the X-ray scance as pneumonia postive or negative. Different Convolutional Neural Network architectures based on DenseNet121 pre-trained model are built, trained and evaluated.
+
 
 

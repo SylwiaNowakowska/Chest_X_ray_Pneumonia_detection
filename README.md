@@ -17,11 +17,24 @@ Detailed info: https://www.kaggle.com/nih-chest-xrays/data
 ## Project files
  1. EDA (exploratory data analysis)
  2. Build and train model:
-  -  Processing metadata
+  &ensp; -  Processing metadata
   -  Creating training, validation and test datasets
   -  Comparison of demographic distributions in the training, validation and test datasets
   -  Building of different models, their training and evaluation
   -  Model performance summary
   -  Next steps
+ 3. Clinical workflow intergration
+  - checking relevant DICOM matadata 
+  - pre-processing image for the model
+  - loading trained model and its weights
+  - predicting the class
+  4. FDA submission
+  -  intended use statement
+  -  indictaion for use
+  -  device limitations
+  -  clinical impact of performance
+  -  algorithm architecture, training and validation description
+  -  database used for algorithm development
+  -  ground truth description
 
 
